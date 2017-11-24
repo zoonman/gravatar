@@ -12,6 +12,6 @@ import (
 
 func main ()
 {
-	 log.Print(Avatar("philipp@zoonman.com", 256))
+	 log.Print(gravatar.Avatar("philipp@zoonman.com", 256))
 }
 ```
