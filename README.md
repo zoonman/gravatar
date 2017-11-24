@@ -10,7 +10,7 @@ import (
        	"log"
        )
 
-main ()
+func main ()
 {
 	 log.Print(Avatar("philipp@zoonman.com", 256))
 }
